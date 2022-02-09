@@ -1,3 +1,6 @@
+This is a fork of better-sqlite3 that uses sqlcipher
+---
+
 # better-sqlite3 [![Build Status](https://github.com/JoshuaWise/better-sqlite3/actions/workflows/build.yml/badge.svg)](https://github.com/JoshuaWise/better-sqlite3/actions/workflows/build.yml?query=branch%3Amaster)
 
 The fastest and simplest library for SQLite3 in Node.js.

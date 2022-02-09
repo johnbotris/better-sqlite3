@@ -53,6 +53,7 @@
         'include_dirs': ['<(SHARED_INTERMEDIATE_DIR)/sqlite3/'],
       },
       'cflags': ['-std=c99', '-w'],
+      'ldflags': ['/usr/lib/x86_64-linux-gnu/libcrypto.a'],
       'xcode_settings': {
         'OTHER_CFLAGS': ['-std=c99'],
         'WARNING_CFLAGS': ['-w'],
